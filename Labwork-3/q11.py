@@ -6,7 +6,6 @@ def find_longest_word(sentence):
     longest_word = max(words, key=len)
     return longest_word
 
-# Example usage
 sentence = input("Enter a sentence: ")
 longest_word = find_longest_word(sentence)
 print("The longest word is:", longest_word)
