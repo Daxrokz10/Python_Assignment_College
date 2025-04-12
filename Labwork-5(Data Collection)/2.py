@@ -1,4 +1,4 @@
-t=(1,2,3,4,5,6,7,8,9,10)
+t=(2,123,1,4.92324, 'Hello')
 print(t)
 print('Second element:',t[1])
 print('Fourth element:',t[3])
